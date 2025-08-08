@@ -18,8 +18,10 @@ This project analyzes household electricity usage data to identify patterns, pea
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
-![Hourly Consumption Chart](hourly_consumption_chart.png)
+![Dashboard Overview](<img width="1305" height="713" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/a7711dc6-82ee-4e41-8a54-5f03056a82e0" />
+)
+![Hourly Consumption Chart](<img width="1291" height="725" alt="hourly_consumption_chart png" src="https://github.com/user-attachments/assets/c8a5736b-0f07-4d79-b7a7-6abf91e0bff8" />
+)
 
 
 # Smart-Energy-Dashboard
