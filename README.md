@@ -37,7 +37,7 @@ This project leverages the Household Electric Power Consumption dataset to creat
 
 The data used is from the [UCI Machine Learning Repository: Household Electric Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption).
 
-You can download the dataset from the link above or find it in the `data/` folder (if you add it to your repo).
+You can download the dataset from the link above or find it in the `data/` folder (if added to the repo).
 
 ---
 
